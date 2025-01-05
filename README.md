@@ -39,7 +39,7 @@ Includes preprocessing steps such as resizing, normalization, and augmentation t
 # Model Architecture:
 Deep CNN using ResNet50 and EfficientNetB4 architectures.
 
-Achieved accuracy: 70-90% for DR classification.
+Achieved accuracy: 95%+ for DR classification.
 # Project Workflow
 
 Image Preprocessing:
